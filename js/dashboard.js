@@ -1,5 +1,5 @@
-const SUPABASE_URL = "https://qhqrnnkuhsaszonippnj.supabase.co";
-const SUPABASE_KEY = "sb_publishable_aGjT0aecqNHf96Tm7QLMtw_qjCKs5n3";
+const SUPABASE_URL = "https://zeedvmjqgvpswimkzppp.supabase.co";
+const SUPABASE_KEY = "sb_publishable_BG7OKLCynGodYZBdKkPPZg_evthV62A";
 const supabaseClient = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 
 let modoEvolucionFuerza = "dia";
